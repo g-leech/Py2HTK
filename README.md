@@ -15,3 +15,4 @@ The wrapper doesn't really reflect HTK's generality: it builds speaker models fr
 2. Get speech data, annotate it.
 2. Point `Configs.root` at your files.
 3. Run like so :  `python main.py statesPerHmm=3 vectorType=LPC iterations=10`
+
